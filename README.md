@@ -4,4 +4,3 @@ Bancos e corretoras geralmente classificam o investidor em um dos três perfis: 
 Então, busquei unir um treino de programação, com um pouco de conhecimento sobre investimentos.
 
 Importante salientar que há uma limitação desse tipo de teste em definir precisamente o perfil real de um investidor, porém é um bom guia inicial.
-
