@@ -191,6 +191,6 @@ Já o investidor com perfil conversador é avesso ao risco, e se guia pela vonta
 elif mod==ous>con:
   print('\nVocê é um misto de moderado com ousado.')
   print('''O investidor com perfil conversador é avesso ao risco, e se guia pela vontade de preservação do capital que investiu. Dessa forma, busca produtos de investimentos que objetivam a preservação do patrimônio e garantam segurança.
-O investidor com perfil ousado possui grande conhecimento e domínio sobre investimentos, e busca retornos grande, mesmo que isso envolva riscos. Busca retornos expressivos, com rentabilidade para o seu patrimônio. Para isso, lidam com naturalidade com prejuízos, suportando os riscos. Assim, costumam a aplicar mais da metade de seus recursos em produtos de renda variável.
+Já o investidor com perfil ousado possui grande conhecimento e domínio sobre investimentos, e busca retornos grande, mesmo que isso envolva riscos. Busca retornos expressivos, com rentabilidade para o seu patrimônio. Para isso, lidam com naturalidade com prejuízos, suportando os riscos. Assim, costumam a aplicar mais da metade de seus recursos em produtos de renda variável.
 #Dica → Experimente investir em:
 - Investimentos mesclados: títulos de baixo risco e fundos de investimentos, como os cambiais.''')
